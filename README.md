@@ -13,7 +13,3 @@ Il secondo problema (più complicato) è il problema del barbiere addormentato. 
 - Quando arriva un cliente, se il barbiere sta dormendo deve essere svegliato (dal cliente).
 - Se un cliente arriva mentre il barbiere sta lavorando, se nella sala d'attesa c'è almeno una sedia libera si siede ed aspetta, altrimenti esce dal negozio.
 - Quando il barbiere finisce il taglio, ispeziona la sala d'attesa per vedere se ci sono clienti in attesa. Se non ce ne sono si addormenta, altrimenti procede con un altro cliente.
-
-## Contributori 
-
-Stefani Emanuele
